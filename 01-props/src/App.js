@@ -24,4 +24,6 @@ const Person = ({ name, age }) => {
   )
 }
 
+<!-- Merhabalar react öğreniyorum  -->
+
 export default List
